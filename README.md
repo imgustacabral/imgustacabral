@@ -4,8 +4,7 @@ Hi there 👋.
 
 I'm a Full-Stack Developer working in a personal projects.
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imgustacabral@gmail.com)
-
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imgustacabral@gmail.com) [![twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/imgustacabral)
 #### Enthusiast of the best web development technologies.
 
  A little more about me...
