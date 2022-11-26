@@ -11,8 +11,8 @@ I'm a Full-Stack Developer working in a personal projects.
 ```node
 const gusta = {
   code: [Javascript, Typescript, HTML, CSS, Python, PHP],
-  tools: [React, Recoil, Node, Express, Selenium, TailwindCSS],
+  tools: [React,React Native, Recoil, Node, Express, Selenium, TailwindCSS],
   databases: [MongoDB, MySQL, Firebase],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I'm creating a complete bank app with TS and React Native"
 }
 ```
