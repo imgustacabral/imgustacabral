@@ -11,8 +11,7 @@ I'm a Full-Stack Developer working in a personal projects.
 ```node
 const gusta = {
   code: [Javascript, Typescript, HTML, CSS, Python, PHP],
-  tools: [React,React Native, Recoil, Node, Express, Selenium, TailwindCSS],
+  tools: [React,React Native,Deno, Recoil, Node,AWS, Kafka, Express, Selenium, TailwindCSS],
   databases: [MongoDB, MySQL, Firebase],
-  challenge: "I'm creating a complete bank app with TS and React Native"
 }
 ```
