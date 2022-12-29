@@ -10,7 +10,7 @@ I'm a Full-Stack Developer working in a personal projects.
  A little more about me...
 ```node
 const gusta = {
-  code: [Javascript, Typescript, HTML, CSS, Python, PHP],
+  code: [Typescript, HTML, CSS, Python, PHP],
   tools: [React,React Native,Deno, Recoil, Node,AWS, Kafka, Express, Selenium, TailwindCSS],
   databases: [MongoDB, MySQL, Firebase],
 }
