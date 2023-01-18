@@ -11,7 +11,7 @@ I'm a Full-Stack Developer working in a personal projects.
 ```node
 const gusta = {
   code: [Typescript, HTML, CSS, Python, PHP],
-  tools: [React,React Native,Deno, Recoil, Node,AWS, Kafka, Express, Selenium, TailwindCSS],
+  tools: [NodeJS, React,React Native,NestJS, Recoil,AWS , Kafka, Express, TailwindCSS],
   databases: [MongoDB, MySQL, Firebase],
 }
 ```
