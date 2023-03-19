@@ -15,3 +15,5 @@ const gusta = {
   databases: [MongoDB, MySQL, Firebase],
 }
 ```
+
+![Snake animation](https://github.com/imgustacabral)
