@@ -12,10 +12,8 @@
  <p align="left">📚 Atualmente estudando Data Structures & Microservices;</p>
 </div>
 
-
-
 ### 🚀 Minha sopa de letrinhas: 
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin-right: 10px"/>
+<div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin-right: 10px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin-right: 10px"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" style="margin-right: 10px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="Node.js" width="50" height="50" style="margin-right: 10px"/>
@@ -27,11 +25,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="50" height="50" style="margin-right: 10px"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="50" height="50" style="margin-right: 10px"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width="50" height="50" style="margin-right: 10px"/>
- </p>
+ </div>
  
  ##
- 
- <div align="center">
+<div align="center">
 <a href="https://github.com/imgustacabral">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgustacabral&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imgustacabral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
