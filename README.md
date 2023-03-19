@@ -16,4 +16,4 @@ const gusta = {
 }
 ```
 
-![Snake animation](https://github.com/imgustacabral)
+![Snake animation](https://github.com/imgustacabral/imgustacabral/blob/output/github-contribution-grid-snake.svg)
