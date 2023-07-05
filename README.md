@@ -11,7 +11,7 @@
  <p align="left">🎓 Sou aluno na <a href="https://kenzie.com.br/">Kenzie Academy</a>;</p>
 </div>
 
-### 🚀 Minha sopa de letrinhas: 
+### 🚀 Minhas techs: 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" style="margin-right: 8px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" style="margin-right: 8px"/>
