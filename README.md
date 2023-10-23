@@ -8,7 +8,6 @@
 ### 📓 Sobre mim:
 <div display="inline-block">
  <p align="left">🧟 Minha paixão é criar aplicações escaláveis e de alta performance;</p>
- <p align="left">🎓 Sou aluno na <a href="https://kenzie.com.br/">Kenzie Academy</a>;</p>
 </div>
 
 ### 🚀 Minhas techs: 
